@@ -102,7 +102,6 @@ Provided elaborated document and renamed that preivous document.
 | Meeting 01 | 13 Sep 2026 | Initial Project Discussion | ✅ Completed |
 | Meeting 02 | 18 Sep 2026 | Requirements | ✅ Completed |
 | Meeting 03 | 23 Sep 2026 | Doucment submission | ✅ Completed |
-| Meeting 04 | 30 Sep 2026 | Doucment submission | ⏳ Upcoming |
 ---
 
 > **Last Updated:** 28 September 2026
